@@ -1,4 +1,10 @@
-f,a,c,d,g,i,m,p
-a,b,c,f,i,m,o
-b,f,h,j,o
-b,c,k,s,p
+a,b,c,d
+e,d,f,b
+a,d,e
+b,c,d,g
+a,d,f,c
+h,d,c
+a,d,i
+f,j,c
+j,b,c
+c,h,a,f,d
